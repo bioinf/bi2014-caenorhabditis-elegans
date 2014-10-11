@@ -1,0 +1,7 @@
+##gff-version 3
+##sequence-region	I	7251945	7255126
+I	genBlastA628	region	7251945	7255126	470.554	+	.	ID=p03-R1-1
+I	genBlastA628	match	7254638	7255126	99.3865	+	.	Name=HSP4;Parent=p03-R1-1
+I	genBlastA628	match	7253592	7254596	95.2239	+	.	Name=HSP1;Parent=p03-R1-1
+I	genBlastA628	match	7252582	7253547	95.0311	+	.	Name=HSP2;Parent=p03-R1-1
+I	genBlastA628	match	7251945	7252598	92.6606	+	.	Name=HSP3;Parent=p03-R1-1

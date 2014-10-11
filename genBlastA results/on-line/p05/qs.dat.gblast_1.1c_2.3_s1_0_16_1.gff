@@ -1,0 +1,26 @@
+##gff-version 3
+##sequence-region	III	1152715	1180793
+III	genBlastA630	region	1152715	1180793	1404.77	+	.	ID=p05-R1-1
+III	genBlastA630	match	1180665	1180793	95.3488	+	.	Name=HSP22;Parent=p05-R1-1
+III	genBlastA630	match	1179592	1179744	100	+	.	Name=HSP18;Parent=p05-R1-1
+III	genBlastA630	match	1178901	1179221	99.0654	+	.	Name=HSP11;Parent=p05-R1-1
+III	genBlastA630	match	1177841	1178188	98.2759	+	.	Name=HSP6;Parent=p05-R1-1
+III	genBlastA630	match	1177699	1177845	97.9592	+	.	Name=HSP7;Parent=p05-R1-1
+III	genBlastA630	match	1177172	1177345	82.7586	+	.	Name=HSP19;Parent=p05-R1-1
+III	genBlastA630	match	1176984	1177169	98.3871	+	.	Name=HSP15;Parent=p05-R1-1
+III	genBlastA630	match	1171655	1173400	99.8282	+	.	Name=HSP1;Parent=p05-R1-1
+III	genBlastA630	match	1169953	1170570	99.5146	+	.	Name=HSP3;Parent=p05-R1-1
+III	genBlastA630	match	1168939	1169421	100	+	.	Name=HSP5;Parent=p05-R1-1
+III	genBlastA630	match	1167544	1167660	100	+	.	Name=HSP25;Parent=p05-R1-1
+III	genBlastA630	match	1167092	1167520	91.6084	+	.	Name=HSP8;Parent=p05-R1-1
+III	genBlastA630	match	1166048	1166458	88.3212	+	.	Name=HSP10;Parent=p05-R1-1
+III	genBlastA630	match	1165437	1165730	100	+	.	Name=HSP13;Parent=p05-R1-1
+III	genBlastA630	match	1164918	1165139	98.6486	+	.	Name=HSP14;Parent=p05-R1-1
+III	genBlastA630	match	1164465	1164665	88.0597	+	.	Name=HSP17;Parent=p05-R1-1
+III	genBlastA630	match	1164026	1164172	91.8367	+	.	Name=HSP20;Parent=p05-R1-1
+III	genBlastA630	match	1160336	1160455	97.5	+	.	Name=HSP24;Parent=p05-R1-1
+III	genBlastA630	match	1157945	1159057	99.7305	+	.	Name=HSP2;Parent=p05-R1-1
+III	genBlastA630	match	1156999	1157310	99.0385	+	.	Name=HSP12;Parent=p05-R1-1
+III	genBlastA630	match	1154533	1155273	90.6883	+	.	Name=HSP4;Parent=p05-R1-1
+III	genBlastA630	match	1153405	1153752	97.4138	+	.	Name=HSP9;Parent=p05-R1-1
+III	genBlastA630	match	1152715	1152924	80.8219	+	.	Name=HSP16;Parent=p05-R1-1

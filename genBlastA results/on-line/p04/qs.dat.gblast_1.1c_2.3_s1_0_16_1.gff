@@ -1,0 +1,21 @@
+##gff-version 3
+##sequence-region	X	7848170	7860027
+X	genBlastA629	region	7848170	7860027	805.679	-	.	ID=p04-R1-1
+X	genBlastA629	match	7859905	7860027	75.6098	-	.	Name=HSP24;Parent=p04-R1-1
+X	genBlastA629	match	7857406	7857798	87.0229	-	.	Name=HSP12;Parent=p04-R1-1
+X	genBlastA629	match	7857267	7857359	100	-	.	Name=HSP13;Parent=p04-R1-1
+X	genBlastA629	match	7856465	7856713	93.9759	-	.	Name=HSP3;Parent=p04-R1-1
+X	genBlastA629	match	7855756	7856421	53.1532	-	.	Name=HSP2;Parent=p04-R1-1
+X	genBlastA629	match	7854702	7855736	73.913	-	.	Name=HSP1;Parent=p04-R1-1
+X	genBlastA629	match	7854469	7854654	100	-	.	Name=HSP4;Parent=p04-R1-1
+X	genBlastA629	match	7854239	7854388	90	-	.	Name=HSP5;Parent=p04-R1-1
+X	genBlastA629	match	7852805	7853845	95.389	-	.	Name=HSP6;Parent=p04-R1-1
+X	genBlastA629	match	7852516	7852764	97.5904	-	.	Name=HSP7;Parent=p04-R1-1
+X	genBlastA629	match	7851950	7852489	96.6667	-	.	Name=HSP11;Parent=p04-R1-1
+X	genBlastA629	match	7851032	7851139	97.2222	-	.	Name=HSP10;Parent=p04-R1-1
+X	genBlastA629	match	7850629	7850991	100	-	.	Name=HSP8;Parent=p04-R1-1
+X	genBlastA629	match	7850388	7850588	100	-	.	Name=HSP9;Parent=p04-R1-1
+X	genBlastA629	match	7849531	7849740	97.1429	-	.	Name=HSP14;Parent=p04-R1-1
+X	genBlastA629	match	7849236	7849418	100	-	.	Name=HSP15;Parent=p04-R1-1
+X	genBlastA629	match	7848312	7848443	100	-	.	Name=HSP16;Parent=p04-R1-1
+X	genBlastA629	match	7848170	7848238	82.6087	-	.	Name=HSP17;Parent=p04-R1-1

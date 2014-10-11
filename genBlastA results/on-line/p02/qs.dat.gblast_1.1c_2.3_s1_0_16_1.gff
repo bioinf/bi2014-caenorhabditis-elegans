@@ -1,0 +1,23 @@
+##gff-version 3
+##sequence-region	I	3970796	3971276
+I	genBlastA624	region	3970796	3971276	53.7073	+	.	ID=p02-R1-1
+I	genBlastA624	match	3971070	3971276	87.5	+	.	Name=HSP3;Parent=p02-R1-1
+I	genBlastA624	match	3970796	3971041	79.2683	+	.	Name=HSP1;Parent=p02-R1-1
+##sequence-region	I	3968169	3968649
+I	genBlastA624	region	3968169	3968649	53.7073	-	.	ID=p02-R2-2
+I	genBlastA624	match	3968404	3968649	79.2683	-	.	Name=HSP2;Parent=p02-R2-2
+I	genBlastA624	match	3968169	3968375	87.5	-	.	Name=HSP4;Parent=p02-R2-2
+##sequence-region	IV	6793962	6794291
+IV	genBlastA624	region	6793962	6794291	18.285	-	.	ID=p02-R3-3
+IV	genBlastA624	match	6793962	6794291	47.7477	-	.	Name=HSP13;Parent=p02-R3-3
+##sequence-region	IV	5253445	5253826
+IV	genBlastA624	region	5253445	5253826	15.3525	-	.	ID=p02-R4-4
+IV	genBlastA624	match	5253713	5253826	47.3684	-	.	Name=HSP17;Parent=p02-R4-4
+IV	genBlastA624	match	5253445	5253639	48.4848	-	.	Name=HSP15;Parent=p02-R4-4
+##sequence-region	IV	5071823	5072204
+IV	genBlastA624	region	5071823	5072204	7.47749	+	.	ID=p02-R5-5
+IV	genBlastA624	match	5072010	5072204	48.4848	+	.	Name=HSP14;Parent=p02-R5-5
+IV	genBlastA624	match	5071823	5071936	47.3684	+	.	Name=HSP16;Parent=p02-R5-5
+##sequence-region	IV	458072	458437
+IV	genBlastA624	region	458072	458437	5.36483	-	.	ID=p02-R6-6
+IV	genBlastA624	match	458072	458437	26.4	-	.	Name=HSP23;Parent=p02-R6-6

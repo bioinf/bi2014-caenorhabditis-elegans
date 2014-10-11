@@ -1,0 +1,67 @@
+##gff-version 3
+##sequence-region	I	3965776	3967281
+I	genBlastA626	region	3965776	3967281	150.727	-	.	ID=p01-R1-1
+I	genBlastA626	match	3967066	3967281	76.3889	-	.	Name=HSP8;Parent=p01-R1-1
+I	genBlastA626	match	3966887	3967018	100	-	.	Name=HSP6;Parent=p01-R1-1
+I	genBlastA626	match	3965891	3966697	81.3187	-	.	Name=HSP2;Parent=p01-R1-1
+I	genBlastA626	match	3965776	3965898	95.122	-	.	Name=HSP24;Parent=p01-R1-1
+##sequence-region	I	3972164	3973669
+I	genBlastA626	region	3972164	3973669	150.727	+	.	ID=p01-R2-2
+I	genBlastA626	match	3973547	3973669	95.122	+	.	Name=HSP23;Parent=p01-R2-2
+I	genBlastA626	match	3972748	3973554	81.3187	+	.	Name=HSP1;Parent=p01-R2-2
+I	genBlastA626	match	3972427	3972558	100	+	.	Name=HSP5;Parent=p01-R2-2
+I	genBlastA626	match	3972164	3972379	76.3889	+	.	Name=HSP7;Parent=p01-R2-2
+##sequence-region	IV	6793950	6795046
+IV	genBlastA626	region	6793950	6795046	65.595	-	.	ID=p01-R3-3
+IV	genBlastA626	match	6794849	6795046	45.4545	-	.	Name=HSP33;Parent=p01-R3-3
+IV	genBlastA626	match	6793950	6794777	48.7455	-	.	Name=HSP32;Parent=p01-R3-3
+##sequence-region	IV	5253439	5254501
+IV	genBlastA626	region	5253439	5254501	60.4624	-	.	ID=p01-R4-4
+IV	genBlastA626	match	5253716	5254501	46.8635	-	.	Name=HSP34;Parent=p01-R4-4
+IV	genBlastA626	match	5253439	5253639	55.2239	-	.	Name=HSP35;Parent=p01-R4-4
+##sequence-region	I	3968229	3969717
+I	genBlastA626	region	3968229	3969717	53.4904	-	.	ID=p01-R5-5
+I	genBlastA626	match	3969058	3969717	42.9864	-	.	Name=HSP3;Parent=p01-R5-5
+I	genBlastA626	match	3968407	3968649	39.5062	-	.	Name=HSP17;Parent=p01-R5-5
+I	genBlastA626	match	3968229	3968351	65.8537	-	.	Name=HSP19;Parent=p01-R5-5
+##sequence-region	IV	5071382	5072210
+IV	genBlastA626	region	5071382	5072210	37.6834	+	.	ID=p01-R6-6
+IV	genBlastA626	match	5072010	5072210	55.2239	+	.	Name=HSP37;Parent=p01-R6-6
+IV	genBlastA626	match	5071382	5071933	52.1277	+	.	Name=HSP36;Parent=p01-R6-6
+##sequence-region	I	6100514	6101569
+I	genBlastA626	region	6100514	6101569	29.4113	-	.	ID=p01-R7-7
+I	genBlastA626	match	6100514	6101569	30.8989	-	.	Name=HSP4;Parent=p01-R7-7
+##sequence-region	IV	7801911	7803017
+IV	genBlastA626	region	7801911	7803017	28.5948	-	.	ID=p01-R8-8
+IV	genBlastA626	match	7801911	7803017	31.4516	-	.	Name=HSP38;Parent=p01-R8-8
+##sequence-region	I	6500285	6501207
+I	genBlastA626	region	6500285	6501207	18.7089	+	.	ID=p01-R9-9
+I	genBlastA626	match	6501025	6501207	41.9355	+	.	Name=HSP29;Parent=p01-R9-9
+I	genBlastA626	match	6500862	6500966	40	+	.	Name=HSP30;Parent=p01-R9-9
+I	genBlastA626	match	6500285	6500728	42.2819	+	.	Name=HSP12;Parent=p01-R9-9
+##sequence-region	IV	5304119	5305184
+IV	genBlastA626	region	5304119	5305184	12.578	-	.	ID=p01-R10-10
+IV	genBlastA626	match	5304660	5305184	31.4607	-	.	Name=HSP47;Parent=p01-R10-10
+IV	genBlastA626	match	5304119	5304514	33.0827	-	.	Name=HSP49;Parent=p01-R10-10
+##sequence-region	I	10019897	10020869
+I	genBlastA626	region	10019897	10020869	10.5942	+	.	ID=p01-R11-11
+I	genBlastA626	match	10020525	10020869	33.6207	+	.	Name=HSP28;Parent=p01-R11-11
+I	genBlastA626	match	10019897	10020391	39.759	+	.	Name=HSP11;Parent=p01-R11-11
+##sequence-region	I	3933579	3971216
+I	genBlastA626	region	3933579	3971216	7.02088	+	.	ID=p01-R12-12
+I	genBlastA626	match	3971094	3971216	65.8537	+	.	Name=HSP18;Parent=p01-R12-12
+I	genBlastA626	match	3970796	3971038	39.5062	+	.	Name=HSP16;Parent=p01-R12-12
+I	genBlastA626	match	3933579	3934145	29.6482	+	.	Name=HSP25;Parent=p01-R12-12
+##sequence-region	IV	5408471	5409262
+IV	genBlastA626	region	5408471	5409262	5.61145	-	.	ID=p01-R13-13
+IV	genBlastA626	match	5408471	5409262	28.9377	-	.	Name=HSP42;Parent=p01-R13-13
+##sequence-region	I	5966003	5967030
+I	genBlastA626	region	5966003	5967030	5.39824	+	.	ID=p01-R14-14
+I	genBlastA626	match	5966533	5967030	26.9461	+	.	Name=HSP9;Parent=p01-R14-14
+I	genBlastA626	match	5966003	5966470	29.1139	+	.	Name=HSP10;Parent=p01-R14-14
+##sequence-region	IV	458120	458884
+IV	genBlastA626	region	458120	458884	1.8966	-	.	ID=p01-R15-15
+IV	genBlastA626	match	458120	458884	28.7879	-	.	Name=HSP39;Parent=p01-R15-15
+##sequence-region	II	5919748	5920620
+II	genBlastA626	region	5919748	5920620	0.879265	+	.	ID=p01-R16-16
+II	genBlastA626	match	5919748	5920620	30.2721	+	.	Name=HSP53;Parent=p01-R16-16
