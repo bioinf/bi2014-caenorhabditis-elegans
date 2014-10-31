@@ -10,4 +10,11 @@ exonerate --model protein2genome --query FILE_WITH_PROTEINS --target FILE_WITH_G
 5. Следуем инструкции с http://www.molecularevolution.org/molevolfiles/exercises/augustus/training.html
 (только команде randomSplit.pl genes.gb 100 - нужно число указать так, чтобы в train оказалось >= 100)
 
+6. Чтобы проверить свои результаты запускаем скрипт count_accuracy.py <augustus_output> <ideal_proteins>
+
+Результаты на данный момент
+
+Было выбрано 1050 протеинов c. briggsae, найдены их выравнивания на геном c. elegans. Выборка разбита на тренировочную(900) и тестовую(150).
+Результаты после применения AUGUSTUS: на начальных параметрах было угадано 40 генов из 128, на оптимизированных 50 из 129, на дефолтных -- 70 из 149.
+
 
