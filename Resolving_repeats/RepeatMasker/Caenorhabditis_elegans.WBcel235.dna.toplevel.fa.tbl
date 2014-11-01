@@ -1,0 +1,59 @@
+==================================================
+file name: Caenorhabditis_elegans.WBcel235.dna.toplevel.fa
+sequences:             7
+total length:  100286401 bp  (100286401 bp excl N/X-runs)
+GC level:         35.44 %
+bases masked:   12751307 bp ( 12.71 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         1493       886471 bp    0.88 %
+   SINEs:              514        87618 bp    0.09 %
+   Penelope              2          185 bp    0.00 %
+   LINEs:              594       400782 bp    0.40 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex        436       263723 bp    0.26 %
+     R1/LOA/Jockey      35        19885 bp    0.02 %
+     R2/R4/NeSL         97        36919 bp    0.04 %
+     RTE/Bov-B          85        90540 bp    0.09 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:       385       398071 bp    0.40 %
+     BEL/Pao           206       303981 bp    0.30 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1       144        86096 bp    0.09 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      33629      6999358 bp    6.98 %
+   hobo-Activator     4067       557614 bp    0.56 %
+   Tc1-IS630-Pogo     7721      1784611 bp    1.78 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac           3999       787326 bp    0.79 %
+   Tourist/Harbinger    11        17714 bp    0.02 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:        11442      2512268 bp    2.51 %
+
+Total interspersed repeats:    10398097 bp   10.37 %
+
+
+Small RNA:             532        48759 bp    0.05 %
+
+Satellites:           4004       884320 bp    0.88 %
+Simple repeats:      22275      1174337 bp    1.17 %
+Low complexity:       6300       300695 bp    0.30 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be caenorhabditis
+RepeatMasker version open-4.0.5 , default mode
+                                   
+run with rmblastn version 2.2.27+
+RepBase Update 20140131, RM database version 20140131
